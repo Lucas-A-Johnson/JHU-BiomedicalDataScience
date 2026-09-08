@@ -28,7 +28,7 @@ Assignment One Part One
 
 5. Projects will be submitted via (check all that apply). Note we are asking everyone to submit their GitHub classroom repo links in Canvas since then we don't have to keep track of GitHub usernames:
 [ ] The teams site
-[ ] Personal git repos 
+[X] Personal git repos 
 [ ] Blackboard
 [ ] Courseplus
 [X] Canvas
@@ -47,3 +47,4 @@ Assignment One Part One
 [ ] Kind of flexible
 [ ] Mildly pliable 
 [X] Might as well be written in stone
+(This is a huge problem if you don't have your project in before grading needs to be finished.)
