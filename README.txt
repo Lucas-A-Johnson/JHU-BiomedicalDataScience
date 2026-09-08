@@ -2,12 +2,12 @@
 Introduction to Robotics Fall 2026
 Assignment One Part One
 1. Course communication will happen on (check all that apply)
-[ ] The learning management system (courseplus or canvass)
+[X] The learning management system (courseplus or canvas)
 [ ] Email
 [ ] Slack
 [X] Teams
 [ ] SIS
-[ ] Online office hours over Teams
+[X] Online office hours over Teams
 
 2. If you need to communicate with the TAs or instructor you should (note if set up for the specific class, you can also use Teams)
 [X] Ask in class or office hours or email intructors or TA
@@ -23,7 +23,7 @@ Assignment One Part One
 4. Unless otherwise stated, the projects are due (check the dates in the modules):
 [ ] Sundays
 [ ] Mondays
-[ ] Tuesdays
+[X] Tuesdays
 [ ] Wednesdays
 
 5. Projects will be submitted via (check all that apply). Note we are asking everyone to submit their GitHub classroom repo links in Canvas since then we don't have to keep track of GitHub usernames:
@@ -31,10 +31,10 @@ Assignment One Part One
 [ ] Personal git repos 
 [ ] Blackboard
 [ ] Courseplus
-[ ] Canvas
+[X] Canvas
 
 6. Major announcements will be made (also on Teams if set up for the class):
-[ ] Over email on the learning management system (courseplus or canvass)
+[X] Over email on the learning management system (courseplus or canvass)
 [ ] Over the Slack group
 [ ] Over Blackboard
 
@@ -46,4 +46,4 @@ Assignment One Part One
 [ ] Super flexible
 [ ] Kind of flexible
 [ ] Mildly pliable 
-[ ] Might as well be written in stone
+[X] Might as well be written in stone
